@@ -1,0 +1,14 @@
+{
+    "name": "op-api-client",
+    "version": "1.0.0",
+    "description": "Simple unofficial nodejs client for OP APIs",
+    "main": "index.js",
+    "author": "Kimmo Kyyhkynen",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^4.0.0",
+        "https-proxy-agent": "^2.1.0",
+        "node-fetch": "^1.7.3",
+        "uuid": "^3.1.0"
+    }
+}

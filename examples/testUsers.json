@@ -1,0 +1,18 @@
+[
+    {
+        "name": "User 1",
+        "authToken": "fdb6c7c24bbc3a2c4144c1848825ab7d3a4ccb43"
+    },
+    {
+        "name": "User 2",
+        "authToken": "b6910384440ce06f495976f96a162e2ab1bafbb4"
+    },
+    {
+        "name": "User 3",
+        "authToken": "7a66629ddf3691a66eb6466ab7a9f610de531047"
+    },
+    {
+        "name": "User 4",
+        "authToken": "3af871a0e3ebfc46f375ff2b63d1414982bd4f76"
+    }
+]
